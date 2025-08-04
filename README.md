@@ -1,2 +1,2 @@
 # My-first-repo
-Learning GitHub with devops
+Learning GitHub with DevOps
